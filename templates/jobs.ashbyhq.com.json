@@ -1,0 +1,26 @@
+{
+  "template_key": "jobs.ashbyhq.com",
+  "source_url": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+  "generated_by": "none (structured-data)",
+  "generated_at": "2026-08-31T14:55:06+00:00",
+  "generation": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_s": 0.0,
+    "attempts": 0
+  },
+  "rules": {
+    "container_selectors": [],
+    "remove_selectors": [],
+    "use_jsonld": true,
+    "model_confidence": 0.9,
+    "notes": "Served DOM carries no text (client-rendered), but the page embeds a schema.org JobPosting. Resolved without a model call."
+  },
+  "stats": {
+    "uses": 4,
+    "hits": 4,
+    "misses": 0
+  },
+  "revision": 1
+}

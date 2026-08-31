@@ -1,0 +1,28 @@
+{
+  "template_key": "breezy.hr",
+  "source_url": "https://barloworldequipment.breezy.hr/p/ce2a38cf1fab-auto-electrician-global-grade-08",
+  "generated_by": "qwen-max",
+  "generated_at": "2026-08-31T14:55:16+00:00",
+  "generation": {
+    "prompt_tokens": 795,
+    "completion_tokens": 74,
+    "cost_usd": 0.001746,
+    "latency_s": 1.78,
+    "attempts": 1
+  },
+  "rules": {
+    "container_selectors": [
+      "div#description"
+    ],
+    "remove_selectors": [],
+    "use_jsonld": true,
+    "model_confidence": 0.9,
+    "notes": "The job description is contained within a div with the id 'description'. The page also embeds a schema.org JobPosting, which is likelyed for reliability."
+  },
+  "stats": {
+    "uses": 2,
+    "hits": 2,
+    "misses": 0
+  },
+  "revision": 1
+}

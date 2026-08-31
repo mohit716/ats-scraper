@@ -1,0 +1,33 @@
+{
+  "template_key": "boards.greenhouse.io",
+  "source_url": "https://boards.greenhouse.io/figma/jobs/5364702004",
+  "generated_by": "qwen-max",
+  "generated_at": "2026-08-31T14:55:19+00:00",
+  "generation": {
+    "prompt_tokens": 1283,
+    "completion_tokens": 67,
+    "cost_usd": 0.002482,
+    "latency_s": 1.71,
+    "attempts": 1
+  },
+  "rules": {
+    "container_selectors": [
+      "div.job-post-container",
+      "div.job__description.body"
+    ],
+    "remove_selectors": [
+      "div.application--container",
+      "form#application-form",
+      "div.application--questions"
+    ],
+    "use_jsonld": false,
+    "model_confidence": 0.9,
+    "notes": ""
+  },
+  "stats": {
+    "uses": 2,
+    "hits": 2,
+    "misses": 0
+  },
+  "revision": 1
+}

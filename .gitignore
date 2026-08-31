@@ -7,6 +7,7 @@ __pycache__/
 venv/
 .env
 .env.*
+!.env.example
 
 # Jupyter
 .ipynb_checkpoints/
@@ -17,6 +18,13 @@ venv/
 # Crawl outputs
 *_jobs.json
 *.jsonl
+
+# Extraction cache and comparison output. The metrics and the report are
+# deliverables, so they are kept; the bulky per-page text dumps are not.
+.page_cache/
+extraction_output/*
+!extraction_output/comparison.json
+!extraction_output/report_full.txt
 
 # OS
 .DS_Store

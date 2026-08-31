@@ -1,0 +1,35 @@
+{
+  "template_key": "job-boards.greenhouse.io",
+  "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+  "generated_by": "qwen-max",
+  "generated_at": "2026-08-31T14:54:29+00:00",
+  "generation": {
+    "prompt_tokens": 3299,
+    "completion_tokens": 112,
+    "cost_usd": 0.005995,
+    "latency_s": 3.0,
+    "attempts": 1
+  },
+  "rules": {
+    "container_selectors": [
+      "div.job-post-container",
+      "div.job__description.body"
+    ],
+    "remove_selectors": [
+      "form#application-form",
+      ".eeoc__container.body",
+      ".application--questions",
+      ".field-wrapper",
+      ".job__pay-ranges"
+    ],
+    "use_jsonld": false,
+    "model_confidence": 0.8,
+    "notes": "The container selectors target the job description and its related sections. The remove selectors are used to exclude application forms, EEOC information, and other non-job-description content."
+  },
+  "stats": {
+    "uses": 4,
+    "hits": 4,
+    "misses": 0
+  },
+  "revision": 1
+}

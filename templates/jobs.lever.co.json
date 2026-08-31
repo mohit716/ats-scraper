@@ -1,0 +1,29 @@
+{
+  "template_key": "jobs.lever.co",
+  "source_url": "https://jobs.lever.co/palantir/ac978161-6f46-4f6b-ad9e-a258e642751c",
+  "generated_by": "qwen-max",
+  "generated_at": "2026-08-31T14:54:51+00:00",
+  "generation": {
+    "prompt_tokens": 1349,
+    "completion_tokens": 83,
+    "cost_usd": 0.00269,
+    "latency_s": 1.84,
+    "attempts": 1
+  },
+  "rules": {
+    "container_selectors": [
+      ".posting-page .content",
+      ".section-wrapper.page-full-width"
+    ],
+    "remove_selectors": [],
+    "use_jsonld": true,
+    "model_confidence": 0.9,
+    "notes": "The job description is contained within the .content and .section-wrapper.page-full-width classes, with the JSON-LD providing a reliable source for the job description."
+  },
+  "stats": {
+    "uses": 4,
+    "hits": 4,
+    "misses": 0
+  },
+  "revision": 1
+}

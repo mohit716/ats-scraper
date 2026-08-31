@@ -1,0 +1,33 @@
+# UNVERIFIED DRAFT - review against the live page, correct it, then
+# delete these header lines. Files keeping this header are not scored.
+# url: https://barloworldequipment.breezy.hr/p/ce2a38cf1fab-auto-electrician-global-grade-08
+# drafted from: rules / jsonld:JobPosting.description (confidence 0.985)
+
+Position outputs
+• Carry out auto electrical and electronic repairs and maintenance on Earthmoving Equipment in workshop, customer sites or field service.
+• Trouble shoot, Analyse and find root cause failures on electric and electronic components. Remove, repair and install auto electrical and electronic components.
+• Upgrade system files and do download on electronic systems.
+• Install, calibrate and test support systems on machines.
+• Quickly and efficiently, deal with all customer’s auto electrical breakdowns.
+• Do non-electrical and air-conditioning maintenance and repairs on Earthmoving machines.
+• Compile accurate customer service reports.
+• Transfer knowledge to colleagues.
+• Comply with Company and customer safe work practices.
+• Maintain professional image when representing BWE on customer site.
+• Effective self-management and performance ownership.
+• Comply with Contamination Control requirements.
+• Control own admin (labour booking, service reports, part returns, expenses etc.).
+Qualification, Experience and Competencies
+• Matric or equivalent
+• Qualified in relevant trade (Auto Electrician) – “Red Seal”
+• Minimum 5 years post qualification experience on electric and electronic systems on Caterpillar machines
+• Good troubleshooting and problem-solving skills on electrical and electronic systems
+• Caterpillar machine specific technical knowledge and skills.
+• Good understanding off Caterpillar electrical and electronic systems
+• Experience on air conditioning maintenance and repairs.
+• Applicable attachments product operation knowledge.
+• Knowledge and / or exposure to ISO quality systems.
+• Good technical report writing skills.
+• Good Computer Literacy (SIS, STW & ET) knowledge.
+• Drivers licence – Code B.
+• Sound interpersonal and communication skills.
