@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scrapy
+.scrapy/
+
+# Crawl outputs
+*_jobs.json
+*.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
