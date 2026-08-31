@@ -2,18 +2,24 @@ from jobs.spiders.SmartRecruitersBase import SmartRecruitersBase
 
 
 class SmartRecruitersSpider(SmartRecruitersBase):
-    name = "SmartRecruiters"
+    name = "smartrecruiters"
     company_name = "SmartRecruiters"
     company_identifier = "smartrecruiters"
 
 
-class VisaSpider(SmartRecruitersBase):
-    name = "Visa"
-    company_name = "Visa"
-    company_identifier = "visa"
+class EquinoxSpider(SmartRecruitersBase):
+    name = "equinox"
+    company_name = "Equinox"
+    company_identifier = "Equinox"
 
 
-class PlaidSpider(SmartRecruitersBase):
-    name = "Plaid"
-    company_name = "Plaid"
-    company_identifier = "plaid"
+class WesternDigitalSpider(SmartRecruitersBase):
+    name = "westerndigital"
+    company_name = "Western Digital"
+    company_identifier = "WesternDigital"
+
+
+class BoschSpider(SmartRecruitersBase):
+    name = "bosch"
+    company_name = "Bosch"
+    company_identifier = "BoschGroup"
